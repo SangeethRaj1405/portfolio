@@ -1,0 +1,38 @@
+.login_class{
+    border: 2px solid ;
+    padding: 20px;
+    max-width: 400px;
+    margin-top: 200px;
+    margin-left: 540px;
+}
+
+.form_grp label{
+    display: block;
+   margin-bottom: 5px;
+}
+
+.form_grp input{
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button{
+  width: 200px;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.action{
+    
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+}
